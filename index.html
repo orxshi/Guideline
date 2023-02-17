@@ -1,45 +1,243 @@
 <!doctype html>
 <html>
-	<head>
-		<title>
-			GuideLine for Freshman Engineering Students
-		</title>
-	</head>
-	<body>
-		<h1>Registration</h1>
-		<h2>Who is my advisor?</h2>
-		<ul>
-			<li>Visit student portal (student.gau.edu.tr).</li>
-			<li>Log in with your student number and password (student number).</li>
-			<li>Click <i>My Information</i> tab.</li>
-			<li>Click <i>My advisor</i> to know your advisor.</li>
-			<li>See the faculty secretary in case of a problem.</li>
-		</ul>               
-		<h2>Can I do registration myself?</h2>
-		<ul>
-			<li>Even though you register courses via the student portal, you still need
-				your advisor’s approval to complete registration.</li>
-			<li>Therefore, see your advisor face to face for approval.</li>
-		</ul>
-		<h2>Registration period</h2>
-		<ul>
-			<li>Check out academic calendar (portal.gaueng.org/calendar/cal.php)
-				for registration period.</li>
-			<li>Make sure you register before registration deadline to avoid late registration
-				penalty.</li>
-		</ul>
-		<h2>Student Email Address</h2>
-		<ul>
-			<li>Visit gau.edu.tr/en/services/student-mail-information.</li>
-			<li>Enter your surname and student number and click send button.</li>
-			<li>You will be provided with your student email address and password.</li>
-		</ul>
+
+<head>
+	<title>
+		GuideLine for Freshman Engineering Students
+	</title>
+	<link rel="stylesheet" href="toc.css">	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+</head>
+
+<body>
+
+	<script>console.log("hi");</script>
+
+	<div class="contents"></div>
+
+	<h1 id=Registration>Registration</h1>
+	<h2>Who is my advisor?</h2>
+	<ul>
+		<li>Visit <a href="https://student.gau.edu.tr/">student portal</a>.</li>
+		<li>Log in with your student number and password (student number).</li>
+		<li>Click <i>My Information</i> tab.</li>
+		<li>Click <i>My advisor</i> to know your advisor.</li>
+		<li>See the faculty secretary in case of a problem.</li>
+	</ul>
+	<h2>Can I do registration myself?</h2>
+	<ul>
+		<li>Even though you register courses via the student portal, you still need
+			your advisor`s approval to complete registration.</li>
+		<li>Therefore, see your advisor face to face for approval.</li>
+	</ul>
+	<h2>Registration period</h2>
+	<ul>
+		<li>Check out <a href="https://portal.gaueng.org/calendar/cal.php">academic calendar</a> for registration
+			period.</li>
+		<li>Make sure you register before registration deadline to avoid late registration
+			penalty.</li>
+	</ul>
+	<h2>Student Email Address</h2>
+	<ul>
+		<li>Visit <a href="https://www.gau.edu.tr/en/services/student-mail-information">student services</a>.</li>
+		<li>Enter your surname and student number and click send button.</li>
+		<li>You will be provided with your student email address and password.</li>
+	</ul>
+	<h1 id="Courses">Courses</h1>
+	<h2>List of all courses</h2>
+	<ul>
+		<li>Visit <a href="https://portal.gaueng.org/schedule/">departmental schedules</a>.</li>
+		<li>Choose your department.</li>
+		<li>You will see list of all department courses.</li>
+		<li>You will also see course prerequisites. For example, you have to get at
+			least D for PS111 to take PS112.</li>
+	</ul>
+	<h2>Course descriptions</h2>
+	<ul>
+		<li>Visit <a href="https://catalogue.gaueng.org/">engineering catalogue</a>, if you want to get more information
+			about
+			courses.</li>
+	</ul>
+	<h2>Attendance</h2>
+	<ul>
+		<li>You must attend 70% of the classes otherwise, you will get NG which
+			means Nil Grade.</li>
+		<li>Coefficient of NG is 0.00 as F but NG can be considered worse than F
+			since you also lose the right to take graduation make-up examination.</li>
+	</ul>
+	<h2>Time table</h2>
+	<ul>
+		<li>See your advisor for time table.</li>
+	</ul>
+	<h2>Why I don’t see TFL101 in my time table?</h2>
+	<ul>
+		<li>TFL101 is an online course.</li>
+		<li>Attend online classes via e-learning.</li>
+	</ul>
+	<h2>Information about the classroom/time/lecturer of a course</h2>
+	<ul>
+		<li>Go to <a href="https://portal.gaueng.org/comptt/timetable.php">Complete Time Table</a> in Engineering
+			Portal.</li>
+		<li>As an example, enter eng101 in the box and click Course Code.</li>
+		<li>The box highlighted in red will show you course code, group number, initials of the lecturer, and classroom.
+		</li>
+	</ul>
+	<img src="portal.png" alt="Complete Time Table" style="width:50%;height:auto;padding:25px;">
+	<h1 id="Testing">Testing</h1>
+	<h2>Letter grades</h2>
+	<table>
+		<tr>
+			<th>Letter grade</th>
+			<th>Score interval</th>
+			<th>Coefficient</th>
+		</tr>
+		<tr>
+			<td>A</td>
+			<td>90-100</td>
+			<td>4.00</td>
+		</tr>
+		<tr>
+			<td>A-</td>
+			<td>85-89</td>
+			<td>3.70</td>
+		</tr>
+		<tr>
+			<td>B+</td>
+			<td>80-84</td>
+			<td>3.30</td>
+		</tr>
+		<tr>
+			<td>B</td>
+			<td>75-79</td>
+			<td>2.70</td>
+		</tr>
+		<tr>
+			<td>C+</td>
+			<td>65-69</td>
+			<td>2.30</td>
+		</tr>
+		<tr>
+			<td>C</td>
+			<td>60-64</td>
+			<td>2.00</td>
+		</tr>
+		<tr>
+			<td>C-</td>
+			<td>55-59</td>
+			<td>1.70</td>
+		</tr>
+		<tr>
+			<td>D+</td>
+			<td>50-54</td>
+			<td>1.30</td>
+		</tr>
+		<tr>
+			<td>D</td>
+			<td>45-49</td>
+			<td>1.00</td>
+		</tr>
+		<tr>
+			<td>F</td>
+			<td>0-44</td>
+			<td>0.00</td>
+		</tr>
+		<tr>
+			<td>NG (Nil Grade)</td>
+			<td>-</td>
+			<td>0.00</td>
+		</tr>
+		<tr>
+			<td>S (Satisfactory)</td>
+			<td>-</td>
+			<td>0.00</td>
+		</tr>
+		<tr>
+			<td>U (Unsatisfactory)</td>
+			<td>-</td>
+			<td>0.00</td>
+		</tr>
+	</table>
+	<h2>How do I check out exam grades?</h2>
+	<ul>
+		<li>Visit <a href="https://portal.gaueng.org/index.php">student portal</a> and log in.</li>
+		<li>Click My Courses tab.</li>
+		<li>Click Current Grades to know your grades.</li>
+	</ul>
+	<h2>How successful am I?</h2>
+	<ul>
+		<li>After every semester, your Cumulative Grade Point Average (CGPA) is
+			calculated based on your letter grades.</li>
+		<li>The courses with higher credits will have more weight on your CGPA.</li>
+		<li>Your CGPA is calculated out of 4.0. For example, if you get A from all of
+			your courses your CGPA will be 4.00 out of 4.00.</li>
+	</ul>
+	<h2>How do I graduate?</h2>
+	<ul>
+		<li>Each course has a credit. You will earn the credit by passing a course.
+
+		<li>Once you earn enough credits, you fulfill one the requirements to graduate.</li>
+		<li>Visit specific department in <a href="https://portal.gaueng.org/schedule/">departmental schedules</a> to see
+			required credits to graduate.</li>
+		<li>For example, for <a href="https://portal.gaueng.org/schedule/sched.php?dept=Computer%20Engineering">Computer
+				Engineering</a>, you have to earn 132 credits.</li>
+		</li>
+		<li>Keep your CGPA above 2.0. Students who plan to do Master and PhD degrees are encouraged to have at least 3.0
+			CGPA (2.5 for some universities)
+			on graduation.</li>
+	</ul>
+	<h2>Attending exams</h2>
+	<ul>
+		<li>You need exam cards to attend midterm/final/make-up/resit exams.</li>
+		<li>Get your exam card from faculty secretary.</li>
+		<li>Please read <a href="https://portal.gaueng.org/exrule/exam.php">Exam Rules and Regulations</a>.</li>
+	</ul>
+	<h2>How do I follow announcements?</h2>
+	<ul>
+		<li>Visit <a href="https://portal.gaueng.org/index.php">Engineering Portal</a> frequently for announcements such
+			as exam
+			dates.</li>
+	</ul>
+	<h1 id="Online resources">Online resources</h1>
+	e-learning is useful to access online resources such as assignments and exams
+	and also attending online classes and quizzes.
+	<h2>Log in</h2>
+	<ul>
+		<li>Visit <a href="https://elearning.gau.edu.tr/">e-learning website</a>.</li>
+		<li>Click Log in in upper right corner.</li>
+		<li>Use student email address and password to log in.</li>
+	</ul>
+	<h2>How to enroll in a course</h2>
+	<ul>
+		<li>Visit <a href="https://elearning.gau.edu.tr/">e-learning website</a> and log in.</li>
+		<li>Scroll down and click Faculty of Engineering.</li>
+	</ul>
+	<img src="el1.png" alt="e-learning" style="width:50%;height:auto;padding:25px;">
+	<ul>
+		<li>Search for name of the course you want to enroll in.</li>
+		<li>In this example, name of the course is tfl101.</li>
+	</ul>
+	<img src="el2.png" alt="e-learning" style="width:50%;height:auto;padding:25px;">
+	<ul>
+		<li>Click Enroll me button.</li>
+	</ul>
+	<img src="el3.png" alt="e-learning" style="width:50%;height:auto;padding:25px;">
+	<h2>How do I attend TFL101 class?</h2>
+	<ul>
+		<li>In order to join online classes, download and install <a href="https://zoom.us/">Zoom</a>.</li>
+		<li>Log in to <a href="https://elearning.gau.edu.tr/">e-learning</a>.</li>
+		<li>Choose TFL101 in My Courses drop down menu.</li>
+		<li>Click the link provided by the lecturer.</li>
+	</ul>
+	<h2>How TFL101 is graded?</h2>
+	<ul>
+		<li>You either get S (Satisfactory) or U (Unsatisfactory).</li>
+	</ul>
 
 
+	<script type = "text/javascript" src="toc.js"></script>
+	
+	
 
-
-
-	</body>
+	
+</body>
 </html>
-
-
