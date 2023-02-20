@@ -46,12 +46,12 @@ var h1h2 = document.querySelectorAll("h1, h2");
 for (var i = 0; i < h1h2.length; i++) {
     if (h1h2[i].nodeName === "H2") {        
         var li = document.createElement("li");
+        // li.style.listStyleType = "none";
         var createA = document.createElement('a');
         var createAText = document.createTextNode(h1h2[i].textContent);        
         createA.setAttribute('href', '#' + h1h2[i].id);
         createA.appendChild(createAText);
         li.appendChild(createA);
-        //  li.appendChild(document.createTextNode(h1h2[i].textContent));
         toc.appendChild(li);
     }
     else {
