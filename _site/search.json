@@ -1,0 +1,109 @@
+
+[
+
+{
+"title": "Courses",
+"tags": "",
+"keywords": "",
+"url": "courses.html",
+"summary": ""
+}
+,
+
+{
+"title": "Engineering portal",
+"tags": "",
+"keywords": "",
+"url": "engportal.html",
+"summary": ""
+}
+,
+
+{
+"title": "Frequently asked questions",
+"tags": "",
+"keywords": "",
+"url": "faq.html",
+"summary": ""
+}
+,
+
+{
+"title": "Welcome to GAU",
+"tags": "",
+"keywords": "",
+"url": "index.html",
+"summary": ""
+}
+,
+
+{
+"title": "News",
+"tags": "",
+"keywords": "news, blog, updates, release notes, announcements",
+"url": "news.html",
+"summary": ""
+}
+,
+
+{
+"title": "News",
+"tags": "",
+"keywords": "news, blog, updates, release notes, announcements",
+"url": "news_archive.html",
+"summary": ""
+}
+,
+
+{
+"title": "Online resources",
+"tags": "",
+"keywords": "",
+"url": "onlineres.html",
+"summary": ""
+}
+,
+
+{
+"title": "Registration",
+"tags": "",
+"keywords": "",
+"url": "registration.html",
+"summary": ""
+}
+,
+
+
+
+
+{
+"title": "Sample post",
+"tags": "newsgetting_started",
+"keywords": "",
+"url": "samplepost.html",
+"summary": "This is some summary frontmatter for my sample post."
+}
+,
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "news",
+"keywords": "",
+"url": "myupdate.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Test post from last year",
+"tags": "news",
+"keywords": "",
+"url": "test-post-from-last-year.html",
+"summary": ""
+}
+
+
+
+]

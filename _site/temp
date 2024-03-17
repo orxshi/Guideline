@@ -1,0 +1,12 @@
+  - title:
+    output: web
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: web
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: web
+      type: frontmatter
