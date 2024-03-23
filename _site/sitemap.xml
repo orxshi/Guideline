@@ -26,6 +26,12 @@
   
   
   <url>
+    <loc>http://localhost:4000/accreditation.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/courses.html</loc>
   </url>
   

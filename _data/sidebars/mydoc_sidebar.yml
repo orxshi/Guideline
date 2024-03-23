@@ -30,6 +30,10 @@ entries:
     - title: Courses
       url: /courses.html
       output: web
+        
+    - title: Accreditation
+      url: /accreditation.html
+      output: web
 
         #- title: Supported features
         #  url: /mydoc_supported_features.html
