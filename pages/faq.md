@@ -9,10 +9,14 @@ No, even though you can register courses via the student portal, you still need 
 
 ### How to get student email address?
 
-See <A href="mydoc_onlineres.html#logging-in-with-student-email-address">Getting student email address</A>
+See <A href="onlineres.html#logging-in-with-student-email-address">Getting student email address</A>
 
 ### How do I check out exam results?
 
 Visit [Student portal](https://student.gau.edu.tr/). Click My Courses tab. Click Current Grades to know your grades.
+
+### Is my program accredited?
+
+See <A href="accreditation.html">Accrediation</A>
 
 {% include links.html %}
