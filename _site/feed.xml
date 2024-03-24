@@ -5,66 +5,18 @@
         <description>Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features.</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 Mar 2024 19:06:28 +0200</pubDate>
-        <lastBuildDate>Sat, 23 Mar 2024 19:06:28 +0200</lastBuildDate>
+        <pubDate>Sun, 24 Mar 2024 22:55:43 +0200</pubDate>
+        <lastBuildDate>Sun, 24 Mar 2024 22:55:43 +0200</lastBuildDate>
         <generator>Jekyll v3.9.5</generator>
         
         <item>
-            <title>Sample post</title>
-            <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries&lt;/p&gt;
-
-&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
-
-&lt;p&gt;but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries&lt;/p&gt;
+            <title>Midterm week is coming!</title>
+            <description>&lt;p&gt;Midterm exams will be held starting from 01.04.24 (Monday). Exam cards are mandatory to attend exams. Read &lt;a href=&quot;https://portal.gaueng.org/exrule/exam.php&quot;&gt;exam rules&lt;/a&gt; before attending exams.&lt;/p&gt;
 
 </description>
-            <pubDate>Fri, 26 Feb 2016 00:00:00 +0200</pubDate>
-            <link>http://localhost:4000/samplepost.html</link>
-            <guid isPermaLink="true">http://localhost:4000/samplepost.html</guid>
-            
-            <category>news</category>
-            
-            <category>getting_started</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Welcome to Jekyll!</title>
-            <description>&lt;p&gt;Theme updates:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Permalinks&lt;/li&gt;
-  &lt;li&gt;Kramdown&lt;/li&gt;
-  &lt;li&gt;URL specified in config file&lt;/li&gt;
-  &lt;li&gt;removed PDF output&lt;/li&gt;
-  &lt;li&gt;removed some of the alternative layouts&lt;/li&gt;
-  &lt;li&gt;added blog feature&lt;/li&gt;
-  &lt;li&gt;sidebars configurable per page&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-            <pubDate>Wed, 24 Feb 2016 00:00:00 +0200</pubDate>
-            <link>http://localhost:4000/myupdate.html</link>
-            <guid isPermaLink="true">http://localhost:4000/myupdate.html</guid>
-            
-            <category>news</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Test post from last year</title>
-            <description>&lt;p&gt;This is just a test post from the previous year.&lt;/p&gt;
-
-</description>
-            <pubDate>Sun, 12 Apr 2015 00:00:00 +0300</pubDate>
-            <link>http://localhost:4000/test-post-from-last-year.html</link>
-            <guid isPermaLink="true">http://localhost:4000/test-post-from-last-year.html</guid>
-            
-            <category>news</category>
+            <pubDate>Sun, 24 Mar 2024 00:00:00 +0200</pubDate>
+            <link>http://localhost:4000/midterm_coming.html</link>
+            <guid isPermaLink="true">http://localhost:4000/midterm_coming.html</guid>
             
             
         </item>

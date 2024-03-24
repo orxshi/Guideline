@@ -11,6 +11,8 @@ topnav:
       external_url: https://elearning.gau.edu.tr/
     - title: Calendar
       external_url: https://portal.gaueng.org/calendar/cal.php
+    - title: Announcements
+      url: /announcements
 
 
 

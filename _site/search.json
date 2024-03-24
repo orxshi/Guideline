@@ -47,19 +47,19 @@
 ,
 
 {
-"title": "News",
+"title": "Announcements",
 "tags": "",
-"keywords": "news, blog, updates, release notes, announcements",
-"url": "news.html",
+"keywords": "",
+"url": "announcements.html",
 "summary": ""
 }
 ,
 
 {
-"title": "News",
+"title": "Announcements",
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
-"url": "news_archive.html",
+"url": "announcements_archive.html",
 "summary": ""
 }
 ,
@@ -86,30 +86,10 @@
 
 
 {
-"title": "Sample post",
-"tags": "newsgetting_started",
+"title": "Midterm week is coming!",
+"tags": "",
 "keywords": "",
-"url": "samplepost.html",
-"summary": "This is some summary frontmatter for my sample post."
-}
-,
-
-
-{
-"title": "Welcome to Jekyll!",
-"tags": "news",
-"keywords": "",
-"url": "myupdate.html",
-"summary": ""
-}
-,
-
-
-{
-"title": "Test post from last year",
-"tags": "news",
-"keywords": "",
-"url": "test-post-from-last-year.html",
+"url": "midterm_coming.html",
 "summary": ""
 }
 
