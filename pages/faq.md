@@ -1,5 +1,6 @@
 ---
 title: Frequently asked questions
+sidebar: mydoc_sidebar
 permalink: faq.html
 ---
 

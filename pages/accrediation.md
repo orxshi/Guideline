@@ -5,7 +5,7 @@ permalink: accreditation.html
 folder: mydoc
 ---
 
-Accreditation organizations accredit education programs such as Bachelor of Science (BSc), Master of Science (MSc), and Doctorate of Philosophy (PhD). Some accreditation organizations are govermental such as YOK from Turkey and some are non-govermental such ABET from USA and ASIIN from Germany. In fact, accreditation organizations are supposed to be independent of any government. Accrediation organizations set rules and regulations on education programs. Programs that are accredited by the same organization are equivalent. Accreditation by trusted organizations such as ABET and ASIIN ensures minimum quality of education and recognition. You are advised to check out whether a program is accrediated. 
+Accreditation organizations accredit education programs such as Bachelor of Science (BSc), Master of Science (MSc), and Doctorate of Philosophy (PhD). Accrediation organizations set rules and regulations on education programs. Programs that are accredited by the same organization are equivalent. Accreditation by trusted organizations such as ABET and ASIIN ensures minimum quality of education and recognition. You are advised to check out whether your program is accrediated. 
 
 - [ABET](https://amspub.abet.org/aps)
 - [ASIIN](http://www.asiin-ev.de/pages/de/asiin/akkreditierung-studiengaenge/akkreditierte-studiengaenge.php)

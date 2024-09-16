@@ -5,7 +5,7 @@ permalink: onlineres.html
 folder: mydoc
 ---
 
-You will use [e-learning](https://elearning.gau.edu.tr/) to access online resources. You may find lecture notes (if available) uploaded by lecturers. Lecturers may upload assignments with a due date to e-learning system. You may be asked to upload solutions of assignments to the e-learning system. Quizes are usually held in classroom however, lecturers may also make online quizes. In GAU, teaching is face to face however, some non-credit courses may be held online. You will attend online exams by using links provided by lecturer on e-learning system.
+You will use [e-learning](https://elearning.gau.edu.tr/) to access online resources. You may find lecture notes (if available) uploaded by lecturers. Lecturers may upload assignments with a due date to e-learning system. You may be asked to upload solutions of assignments to the e-learning system. Quizzes are usually held in classroom however, lecturers may also make online quizzes. In GAU, teaching is face to face however, some non-credit courses may be held online. You will attend online exams by using links provided by lecturer on e-learning system.
 
 ## Getting student email address
 
