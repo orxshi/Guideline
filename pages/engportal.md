@@ -19,6 +19,6 @@ Visit [Staff](https://portal.gaueng.org/lectab/lecta.php) to get information suc
 
 ## Academic calendar
 
-It is upmost important to know important dates such as midterm and final exam dates. See [Academic calendar](https://portal.gaueng.org/calendar/cal.php) to know important dates.
+It is upmost important to know important dates such as midterm and final exam dates. See [Academic calendar](https://www.gau.edu.tr/storage//uploads/0/0/0/cal2024-2025-page-0001-1721634720.jpg?vs=1) to know important dates.
 
 {% include links.html %}
