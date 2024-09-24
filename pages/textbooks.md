@@ -8,7 +8,7 @@ folder: mydoc
 
 Visit [Library Genesis](https://www.libgen.is)
 
-<img src="images/libgen1.jpg" alt="libgen1" style="width:70%;height:auto;padding:0px;border:1px solid black">
+<img src="images/libgen1.jpg" alt="libgen1" style="width:40%;height:auto;padding:0px;border:1px solid black">
 
 <span style="color:red">1. Type a word in the name of the book (thermodynamics as an example) and one of the authors (cengel as an example) in the search box and then click search.</span>
 
