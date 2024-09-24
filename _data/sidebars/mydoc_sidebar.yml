@@ -35,6 +35,10 @@ entries:
       url: /accreditation.html
       output: web
 
+    - title: Textbooks
+      url: /textbooks.html
+      output: web
+
         #- title: Supported features
         #  url: /mydoc_supported_features.html
         #  output: web, pdf
