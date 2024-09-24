@@ -18,15 +18,15 @@ Visit [Library Genesis](https://www.libgen.is)
 
 <img src="images/libgen3.png" alt="libgen3" style="width:100%;height:auto;padding:0px;border:1px solid black">
 
-<span style="color:red">2. Click the title of book (in red rectangle above). </span>
+<span style="color:red">3. Click the title of book (in red rectangle above). </span>
 
 <img src="images/libgen4.png" alt="libgen4" style="width:70%;height:auto;padding:0px;border:1px solid black">
 
-<span style="color:red">2. Click either of the links shown in red ellipses above. </span>
+<span style="color:red">4. Click either of the links shown in red ellipses above. </span>
 
 <img src="images/libgen5.png" alt="libgen5" style="width:40%;height:auto;padding:0px;border:1px solid black">
 
-<span style="color:red">2. Click **GET** (shown with red arrow) to start download. </span>
+<span style="color:red">5. Click **GET** (shown with red arrow) to start download. </span>
 
 
 
