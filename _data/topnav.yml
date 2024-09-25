@@ -4,7 +4,9 @@ topnav:
 - title: Topnav
   items:
     - title: FAQ
-      url: /faq
+      url: /faq.html
+    - title: Student Portal
+      external_url: https://student.gau.edu.tr/
     - title: Engineering Portal
       external_url: https://portal.gaueng.org/index.php
     - title: E-learning

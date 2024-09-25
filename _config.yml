@@ -9,7 +9,7 @@ topnav_title: Guideline for Engineering Students
 site_title: Guideline for Engineering Students
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Girne American University
+company_name: Engineering
 # this appears in the footer
 
 #github_editme_path: orxshi/Guideline/blob/gh-pages/
@@ -36,7 +36,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: orhanshibliyev@gau.edu.tr
+feedback_email:
 # used as a contact email for the Feedback link in the top navigation bar
 
 feedback_disable: true
@@ -74,7 +74,7 @@ defaults:
       layout: "page"
       comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
+      search: false
       topnav: topnav
   -
     scope:
@@ -82,7 +82,7 @@ defaults:
       type: "tooltips"
     values:
       layout: "page"
-      search: true
+      search: false
       tooltip: true
       sidebar: mydoc_sidebar
 
@@ -94,7 +94,7 @@ defaults:
       layout: "post"
       comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
+      search: false
       sidebar: mydoc_sidebar
       topnav: topnav
 

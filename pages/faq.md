@@ -2,6 +2,7 @@
 title: Frequently asked questions
 sidebar: mydoc_sidebar
 permalink: faq.html
+folder: mydoc
 ---
 
 ### Can I do registration myself?

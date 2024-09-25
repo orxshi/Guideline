@@ -1,5 +1,5 @@
 ---
-title: Welcome to GAU
+title: Welcome to Engineering Faculty
 sidebar: mydoc_sidebar
 permalink: index.html
 ---
