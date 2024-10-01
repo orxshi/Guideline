@@ -13,7 +13,7 @@ Visit [Department schedules](https://portal.gaueng.org/schedule/). Choose your d
 
 ## Syllabi
 
-Syllabus of a course includes course objectives, course content, the textbook to be used by the lecturer, and so on. In [Catalogue](https://catalogue.gaueng.org/index.php?ar1=017&ar2=0&ar3=0), choose your department. For example, let's choose Computer Engineering. Click the third radio button shown with red arrow in the picture below. Click any course, for example, Calculus I. You will be referred to the syllabus of the course. 
+Syllabus of a course includes course objectives, course content, the textbook to be used by the lecturer, and so on. In [Catalogue](https://catalogue.gaueng.org/index.php?ar1=017&ar2=0&ar3=0), choose your department. For example, let's choose Computer Engineering. Click the third radio button shown with red arrow in the picture below. Click any course, for example, Calculus I (shown with blue arrow). You will be referred to the syllabus of the course. 
 
 <img src="images/catalog.jpg" alt="Catalogue" style="width:90%;height:auto;padding:0px;">
 
