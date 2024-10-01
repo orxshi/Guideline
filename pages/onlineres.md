@@ -11,7 +11,7 @@ You will use [e-learning](https://elearning.gau.edu.tr/) to access online resour
 
 Student email address is a free service provided by GAU. Your student email address will be used to contact you whenever needed. In addition, you will use your student email address to access online resources.
 
-Visit [Student services](https://www.gau.edu.tr/en/services/student-mail-information). Enter your surname with uppercase letters and student number and click send button. You will be provided with your student email address and password. In case of a problem, visit first floor of Smart Science building to get your student email address.
+Visit [Student services](https://www.gau.edu.tr/en/services/student-mail-information). Enter your surname with uppercase letters and student number and click send button. You will be provided with your student email address and password. In case of a problem, visit first floor of *Smart Health* building to get your student email address.
 
 Visit [e-learning](https://elearning.gau.edu.tr/). Click **Log in** in the upper right corner. Use student email address and password to log in.
 

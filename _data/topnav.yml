@@ -13,6 +13,10 @@ topnav:
       external_url: https://elearning.gau.edu.tr/
     - title: Calendar
       external_url: https://www.gau.edu.tr/storage//uploads/0/0/0/cal2024-2025-page-0001-1721634720.jpg?vs=1
+    - title: Catalogue
+      external_url: https://catalogue.gaueng.org/index.php?ar1=017&ar2=0&ar3=0
+    - title: Announcements
+      external_url: https://www.gau.edu.tr/en/services/announcements
       #- title: Announcements
       #url: /announcements
 

@@ -11,6 +11,14 @@ Visit [Department schedules](https://portal.gaueng.org/schedule/). Choose your d
 
 <img src="images/curriculum1.png" alt="Curriculum" style="width:70%;height:auto;padding:0px;">
 
+## Syllabi
+
+Syllabus of a course includes course objectives, course content, the textbook to be used by the lecturer, and so on. In [Catalogue](https://catalogue.gaueng.org/index.php?ar1=017&ar2=0&ar3=0), choose your department. For example, let's choose Computer Engineering. Click the third radio button shown with red arrow in the picture below. Click any course, for example, Calculus I. You will be referred to the syllabus of the course. 
+
+<img src="images/catalog.jpg" alt="Catalogue" style="width:90%;height:auto;padding:0px;">
+
+Syllabi must be followed strictly. Make sure the material presented in the class matches the syllabus. Otherwise, see your advisor for help.
+
 ## Credits
 
 The numbers on the left of the courses are credits. Most of the courses are worth 3 credits. Higher the credit of a course, higher the impact of the course on your performance (GPA). You will earn the credit by passing the course. Once you earn enough credits, you fulfill one the requirements to graduate. Visit specific department in [Departmental schedules](https://portal.gaueng.org/schedule/) to see required credits to graduate. For example, for [Computer Engineering](https://portal.gaueng.org/schedule/sched.php?dept=Computer%20Engineering), you have to earn 132 credits to graduate.
