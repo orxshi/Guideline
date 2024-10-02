@@ -17,8 +17,4 @@ See <A href="onlineres.html#logging-in-with-student-email-address">Getting stude
 
 Visit [Student portal](https://student.gau.edu.tr/). Click My Courses tab. Click Current Grades to know your grades.
 
-### Is my program accredited?
-
-See <A href="accreditation.html">Accrediation</A>
-
 {% include links.html %}
