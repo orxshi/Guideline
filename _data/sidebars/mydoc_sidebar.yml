@@ -31,9 +31,9 @@ entries:
       url: /courses.html
       output: web
         
-    - title: Accreditation
-      url: /accreditation.html
-      output: web
+    #- title: Accreditation
+      #url: /accreditation.html
+      #output: web
 
     - title: Textbooks
       url: /textbooks.html
