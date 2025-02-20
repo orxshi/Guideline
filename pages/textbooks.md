@@ -6,7 +6,7 @@ folder: mydoc
 ---
 
 
-Visit [Library Genesis](https://www.libgen.is)
+Visit [Library Genesis](https://libgen.is). If it is down, try other extensions such as [Library Genesis 2](https://libgen.li) or [Library Genesis 3](https://libgen.gs).
 
 <img src="images/libgen1.jpg" alt="libgen1" style="width:40%;height:auto;padding:0px;border:1px solid black">
 
